@@ -1,0 +1,6 @@
+<?
+include
+(
+"conexion.php"
+);
+?>
